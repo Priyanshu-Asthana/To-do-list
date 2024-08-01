@@ -21,6 +21,8 @@ A simple and intuitive To-Do List web application built using HTML, CSS, and Jav
 1. **Open `index.html` in your web browser**.
 
    You can also use a local server to serve the files, such as using the Live Server extension in Visual Studio Code.
+   
+2.[![Netlify Status](https://api.netlify.com/api/v1/badges/ff8e4948-c030-4ab8-8531-d03ecef114ea/deploy-status)](https://app.netlify.com/sites/t0-dolist/deploys)
 
 ## Usage
 
